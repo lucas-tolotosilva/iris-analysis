@@ -1,6 +1,6 @@
 # Análise de Dados do Conjunto de Dados Iris
 
-(![download](https://github.com/lucas-tolotosilva/iris-analysis/assets/92829834/71beffa4-9a7e-4998-82c2-b32da80d3377))
+![download](https://github.com/lucas-tolotosilva/iris-analysis/assets/92829834/71beffa4-9a7e-4998-82c2-b32da80d3377)
 
 ## Descrição do Repositório
 
@@ -8,7 +8,7 @@ Bem-vindo ao repositório de análise de dados sobre o conjunto de dados Iris! E
 
 ## Conteúdo
 
-- 📔 **Notebooks Jupyter Interativos:** Navegue pelos notebooks Jupyter interativos para uma análise passo a passo dos
+- 📔 **Notebooks Jupyter Interativos:** Navegue pelos notebooks Jupyter interativos para uma análise passo a passo.
 
 ## Tecnologias Utilizadas
 
