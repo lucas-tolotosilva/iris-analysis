@@ -1,6 +1,6 @@
 # Análise de Dados do Conjunto de Dados Iris
 
-![Iris Flowers](iris.jpg)
+![Iris Flowers](![download](https://github.com/lucas-tolotosilva/iris-analysis/assets/92829834/71beffa4-9a7e-4998-82c2-b32da80d3377))
 
 ## Descrição do Repositório
 
@@ -21,3 +21,4 @@ Este projeto faz uso das seguintes tecnologias:
 - 📊 **Matplotlib:** Uma biblioteca de visualização de dados 2D em Python que produz figuras de qualidade em vários formatos, pronta para publicação.
 
 - 📓 **Jupyter Notebooks:** Uma aplicação web open-source que permite criar e compartilhar documentos que contêm código, visualizações e narrativas textuais interativas.
+
